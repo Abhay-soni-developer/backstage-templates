@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-templates
+  annotations:
+    github.com/project-slug: Abhay-soni-developer/backstage-templates
+spec:
+  type: other
+  lifecycle: unknown
